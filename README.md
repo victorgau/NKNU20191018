@@ -3,6 +3,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victorgau/NKNU20191018/master)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/NKNU20191018/)
 
+投影片網址：http://bit.ly/31rqzSz
+
 Python爬蟲及其它應用範例：
 
 * 畫地圖
